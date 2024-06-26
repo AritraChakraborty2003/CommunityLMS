@@ -1,0 +1,2 @@
+const logResReq = () => {};
+export { logResReq };
